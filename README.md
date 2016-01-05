@@ -8,8 +8,6 @@ Simple script for generating random Finnish names.
 node generate.js [number] [male|female]
 ```
 
-## Examples
-
 Generate 10 random names:
 
 ```
@@ -26,6 +24,21 @@ Generate *50* random *male* names:
 
 ```
 node generate.js 50 male
+```
+
+## Example output
+
+```
+Seikko Kuutela
+Nicklas Pussinen
+Margaret Merelä
+Helene Uosukainen
+Knut Turpeinen
+Tiltu Leppävirta
+Ilma Vatja
+Gunnel Lumme
+Fritz Ahopelto
+Taino Myllys
 ```
 
 ## License
