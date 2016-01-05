@@ -1,0 +1,10 @@
+{
+  "name": "finnish-name-generator",
+  "version": "1.0.0",
+  "description": "Finnish Name Generator",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eeturasi/finnish-name-generator.git"
+  }
+}
