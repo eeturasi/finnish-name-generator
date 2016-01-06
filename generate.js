@@ -21,7 +21,7 @@ function getRandomBoolean() {
 }
 
 function splitFileToLines(filename) {
-	return fs.readFileSync(path.resolve(__dirname, filename), 'UTF-8').toString().split("\n");
+	return fs.readFileSync(path.resolve(path.join(__dirname, 'data'), filename), 'UTF-8').toString().split("\n");
 }
 
 var num = 10;
